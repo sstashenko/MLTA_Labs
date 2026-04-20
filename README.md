@@ -23,7 +23,7 @@
 
 1.  **Клонуйте репозиторій:**
     ```bash
-    git clone https://github.com/sstashenko/ASU_Labs_2025.git
+    git clone https://github.com/sstashenko/MLTA_Labs.git
     ```
 
 2.  **Перейдіть до папки з потрібною лабораторною роботою:**
